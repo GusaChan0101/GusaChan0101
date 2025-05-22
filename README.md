@@ -37,7 +37,7 @@
 - [🧠 Simulador de Memória com IA](https://github.com/seu-usuario/simulador-memoria)  
   Lógica adaptativa em Java com manipulação de sequência e dificuldade dinâmica.
 
-- [📚 Sistema de Biblioteca com MySQL](https://github.com/seu-usuario/sistema-biblioteca)  
+- [📚 Sistema de Biblioteca com MySQL](https://github.com/GusaChan0101/Bibioteca-com-MySQL)  
   Backend Java com persistência de dados em MySQL e operações de empréstimo, devolução, cadastro.
 
 - [🔐 Gerador de Senhas Seguras](https://github.com/seu-usuario/gerador-senhas)  
