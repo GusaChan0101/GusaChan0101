@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Gusatavo Simoncini]!
+# 👋 Olá, eu sou Gusatavo Simoncini!
 
 🎯 Desenvolvedor focado em **Java**, **JavaScript** e **MySQL**, apaixonado por criar projetos bem estruturados e resolver problemas com lógica e eficiência.
 
